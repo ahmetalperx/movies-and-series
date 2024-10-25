@@ -21,6 +21,10 @@ Check out the live demo of the project at : [https://ahmetalper-movies-and-serie
 
 ## Screenshots
 
+### Admin Page
+
+![Admin](images/admin.png)
+
 ### Home Page
 
 ![Home](images/home.png)
@@ -36,7 +40,3 @@ Check out the live demo of the project at : [https://ahmetalper-movies-and-serie
 ### Watchlist Page
 
 ![Watchlist](images/watchlist.png)
-
-### Admin Page
-
-![Admin](images/admin.png)
