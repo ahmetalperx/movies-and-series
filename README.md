@@ -14,6 +14,7 @@ Check out the live demo of the project at : [https://ahmetalper-movies-and-serie
 
 ## Features
 
+- Skeleton loading for improved user experience during data fetching
 - Separate pages for movies, series, watchlist and admin
 - Automatic data fetching with TMDB and IMDB integration
 - Admin panel for collection management
